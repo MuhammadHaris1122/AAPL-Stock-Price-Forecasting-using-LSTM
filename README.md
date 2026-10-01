@@ -20,8 +20,7 @@ Built an end-to-end Deep Learning application using stacked LSTM networks to for
 
 ## Results
 
-![Model Performance vs Actual Prices](images/model_performance.png)
-*Figure 1: Actual vs. Predicted Prices along with the 7-Day Recursive Forecast.*
+Actual vs. Predicted Prices along with the 7-Day Recursive Forecast.*
 
 | Metric | LSTM Model | Naive Baseline |
 |--------|------------|----------------|
